@@ -35,7 +35,7 @@ well as the libraries themselves.
 ---
 _versioning based on [Semantic Versioning 2.0.0](http://semver.org/ "Semantic Versioning 2.0.0")_
 
-#### v0.0.1 - initial project setup - February 23, 2015
+#### v0.0.1 - initial project setup - March 12, 2015
 * added this README
 * added Decorators library and tests
 * added AESCipher library and tests
